@@ -1,0 +1,9 @@
+server:
+  port: 9081
+
+eureka:
+  instance: 10.86.48.200
+  client:
+    register-with-eureka: false
+    fetch-registry: false
+    service-url: http://10.86.48.200:8761/eureka
