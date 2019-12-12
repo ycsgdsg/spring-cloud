@@ -9,4 +9,4 @@ spring:
       server:
         git:
           uri: https://github.com/ycsgdsg/spring-cloud
-          searchPaths: spring-cloud-config
+          searchPaths: spring-cloud-config-data
